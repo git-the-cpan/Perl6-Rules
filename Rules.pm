@@ -1,12 +1,12 @@
 package Perl6::Rules;
-use 5.008;
+use 5.00803;
 use re 'eval';
 use Carp;
-use strict;
+# use strict;
 use charnames ':full';
 use utf8;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 # Support for these properties on interpolated hashes...
 

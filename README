@@ -1,5 +1,5 @@
 ==============================================================================
-                   Release of version 0.01 of Perl6::Rules
+                   Release of version 0.02 of Perl6::Rules
 ==============================================================================
 
 
@@ -37,9 +37,13 @@ it under the same terms as Perl itself.
 
 ==============================================================================
 
-CHANGES IN VERSION 0.01
+CHANGES IN VERSION 0.02
 
-(No changes have been documented for this version)
+
+	- Updated requirement to 5.8.3
+
+	- Removed stupid 'use strict' ;-)
+
 
 ==============================================================================
 
